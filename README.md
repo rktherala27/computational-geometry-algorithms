@@ -18,7 +18,7 @@ scipy
 
 matplotlib
 
-cadquery (optional, for sweep operations)
+cadquery for CAD operations (Check cadquery installation manual)
 
 ## Usage
 
