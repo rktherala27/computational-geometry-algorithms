@@ -63,6 +63,15 @@ prints each stage and writes the exported geometry to `output/`.
 - The same pipeline works for open curves; the correction step simply becomes
   a no-op.
 
+## Planned / Future Work
+
+Possible future additions include:
+
+- Graph-based topology extraction (e.g., BFS/DFS on meshes or surface samples).
+- Additional frame constructions (Frenet, Bishop, comparisons).
+- Curve and surface reconstruction algorithms from point clouds or discrete samples.
+- Geometry processing utilities for simulation pipelines.
+
 ## Dependencies
 
 - Python 3
