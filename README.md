@@ -68,7 +68,6 @@ prints each stage and writes the exported geometry to `output/`.
 Possible future additions include:
 
 - Graph-based topology extraction (e.g., BFS/DFS on meshes or surface samples).
-- Additional frame constructions (Frenet, Bishop, comparisons).
 - Curve and surface reconstruction algorithms from point clouds or discrete samples.
 - Geometry processing utilities for simulation pipelines.
 
